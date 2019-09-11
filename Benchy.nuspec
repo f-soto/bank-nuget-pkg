@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Benchy</id>
+    <version>1.0</version>
+    <title>Benchy - Build benchmarking tool</title>
+    <authors>keza</authors>
+    <owners>keza</owners>
+    <licenseUrl>http://creativecommons.org/licenses/by-sa/3.0/</licenseUrl>
+    <projectUrl>http://www.keza.net/benchy/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Benchy is an open source .net tool for benchmarking the execution speed of sections of code after each build. Benchmarks are graphed so that changes to performance characteristics in builds can be easily visualised.</description>
+    <copyright>Keiran McDonald</copyright>
+    <language>en-AU</language>
+    <tags>performance, benchmark</tags>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NCrypt</id>
+        <version>1.0.2</version>
+        <title>NCrypt Password Encrypter</title>
+        <authors>John Bull</authors>
+        <owners>John Bull</owners>
+        <projectUrl>http://github.com/brightpixel/NCrypt</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Password Hash and Salter</description>
+        <language>en-GB</language>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0.0.0" />
+        </frameworkAssemblies>
+    </metadata>
+</package>

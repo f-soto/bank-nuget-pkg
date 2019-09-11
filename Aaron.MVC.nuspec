@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aaron.MVC</id>
+    <version>3.1.9</version>
+    <authors>Kandy Nguyen</authors>
+    <owners>Kandy Nguyen</owners>
+    <licenseUrl>http://aaroncore.codeplex.com/license</licenseUrl>
+    <projectUrl>http://aaroncore.codeplex.com/</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=aaroncore%26DownloadId=507051%26Build=74</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Making your project better.</description>
+    <language>en-US</language>
+    <tags>core dependency mvc aaron architect</tags>
+    <dependencies>
+      <dependency id="Aaron.Core" />
+      <dependency id="Aaron.Data" />
+      <dependency id="Ninject.MVC3" version="2012.3.1018" />
+      <dependency id="Ninject.extensions.conventions" version="3.0.0.11" />
+      <dependency id="TelerikMvcExtensions" version="3.0.0.6" />
+      <dependency id="EntityFramework" version="5.0.0.0" />
+      <dependency id="MiniProfiler" version="2.0.2" />
+      <dependency id="WebActivator" version="1.5" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.Web.Infrastructure" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

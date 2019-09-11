@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>1.0.1</version>
+    <authors>Venkat</authors>
+    <owners />
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.Web.Infrastructure" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data.Entity" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Web.Mobile" targetFramework="" />
+    </frameworkAssemblies>
+    <id>CustomTemplate</id>
+    <title />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Custom Template</description>
+    <language>en-US</language>
+  </metadata>
+</package>

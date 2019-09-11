@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Dna.DJME</id>
+    <version>2.0.3</version>
+    <title>DJME - The jQuery extensions form ASP.NET Mvc3</title>
+    <authors>Ray Liang</authors>
+    <owners>Ray Liang</owners>
+    <licenseUrl>http://djme.codeplex.com/license</licenseUrl>
+    <projectUrl>http://djme.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The jQuery extensions for ASP.NET MVC is a lightweight framework which helps you build rich user interfaces for ASP.NET MVC while enjoying great developer productivity.</description>
+    <language>en-US</language>
+  </metadata>
+</package>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BitFrame</id>
+    <version>0.0.0.3</version>
+    <authors>Kristian Videmark Parkov</authors>
+    <owners>Bitkompagniet ApS</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A multi-purpose framework</description>
+    <releaseNotes>Initial submission.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <dependencies>
+      <dependency id="Ninject" version="3.0.0.0" />
+      <dependency id="RazorEngine" version="3.4.1.0" />
+      <dependency id="YamlDotNet.Core" version="2.0.1.27808" />
+      <dependency id="YamlDotNet.RepresentationModel" version="2.0.1.27808" />
+      <dependency id="YamlDotNet.Converters" version="2.0.1.27809" />
+    </dependencies>
+  </metadata>
+</package>
